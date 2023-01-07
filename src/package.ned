@@ -1,0 +1,3 @@
+package nbiot;
+
+@license(LGPL);

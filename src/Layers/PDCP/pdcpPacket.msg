@@ -1,0 +1,3 @@
+packet pdcpPacket{
+    string type;
+}
